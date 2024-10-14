@@ -91,6 +91,6 @@
 </div>
 
 ###
- <img src="https://raw.githubusercontent.com/Rajneesh-KC/Rajneesh-KC/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Rajneesh-KC/Rajneesh-KC/output/github-contribution-grid-snake.svg)
 
 ###
