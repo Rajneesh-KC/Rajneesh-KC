@@ -91,6 +91,6 @@
 </div>
 
 ###
-![Snake animation](https://github.com/Rajneesh-KC/Rajneesh-KC/output/github-contribution-grid-snake.svg)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Rajneesh-KC/Rajneesh-KC/output/github-contribution-grid-snake-dark.svg)
 
 ###
