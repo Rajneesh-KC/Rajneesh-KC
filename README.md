@@ -91,6 +91,5 @@
 </div>
 
 ###
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Rajneesh-KC/Rajneesh-KC/output/github-contribution-grid-snake-dark.svg)
-
+![mishmanners snake gif](https://github.com/Rajneesh-KC/Rajneesh-KC/blob/output/github-snake.svg)
 ###
